@@ -1,0 +1,7 @@
+The provided file change list appears to contain invalid or corrupted file names (all entries are '"IT'), which cannot be properly analyzed for determining appropriate .gitignore rules. Since I cannot identify any legitimate files or patterns from this input, and there are no valid file extensions or paths to analyze against the ignore rules, no meaningful .gitignore content can be generated.
+
+Therefore, the output is empty.node_modules/
+.next/
+dist/
+build/
+*.log
