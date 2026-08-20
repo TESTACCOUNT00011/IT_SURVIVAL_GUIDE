@@ -263,4 +263,16 @@ For now, visit the main [Ebooks Section](../ebooks/README.md) for future updates
 
 ---
 
+## 💎 Domain Goodies: Legendary Resources for Web Devs
+
+These are the "Hall of Fame" resources specifically for web development. They are challenging but will change how you see the web.
+
+- **[Harvard CS50x](https://cs50.harvard.edu/x/)**: While general CS, the later weeks focus heavily on Web Programming with Python and JavaScript. Essential for understanding *why* the web works, not just *how*.
+- **[The Odin Project](https://www.theodinproject.com/)**: A free, open-source, full-stack curriculum that is community-driven and highly respected. It's hard, but it makes you job-ready.
+- **[Full Stack Open](https://fullstackopen.com/en/)**: By the University of Helsinki. A deep dive into modern React, Redux, Node.js, MongoDB, GraphQL, and TypeScript. Free and excellent.
+- **[JavaScript.info](https://javascript.info/)**: The most detailed, free online book/tutorial for modern JavaScript. Better than most paid courses.
+- **[CSS Battle](https://cssbattle.dev/)**: Gamify your CSS skills. Try to replicate targets with the smallest code possible. Great for "fuck around and find out" learning.
+
+---
+
 **Remember:** Every developer started with `<!DOCTYPE html>`. You've got this! 💪
