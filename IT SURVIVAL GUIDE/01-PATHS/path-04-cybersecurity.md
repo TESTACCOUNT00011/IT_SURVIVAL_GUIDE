@@ -446,4 +446,17 @@ For now, visit the main [Ebooks Section](../ebooks/README.md) for future updates
 
 ---
 
+## 💎 Domain Goodies: Legendary Resources for Cybersecurity
+
+Break things (legally) and learn to protect them with these elite resources.
+
+- **[Harvard CS50x](https://cs50.harvard.edu/x/)**: Understanding memory management and pointers (Week 4 & 5) is the foundation of understanding buffer overflows and many exploits.
+- **[Nand2Tetris](https://www.nand2tetris.org/)**: Knowing how a computer is built from gates up helps you understand hardware-level attacks and side-channel vulnerabilities.
+- **[OverTheWire (Bandit)](https://overthewire.org/wargames/bandit/)**: The ultimate "fuck around and find out" game for Linux security. Start at Level 0. It's addictive and teaches real SSH and command-line skills.
+- **[TryHackMe](https://tryhackme.com/) & [HackTheBox](https://www.hackthebox.com/)**: Gamified hacking labs. TryHackMe is better for beginners; HTB is more advanced. Both have free tiers.
+- **[PicoCTF](https://picoctf.org/)**: Capture The Flag competitions designed by Carnegie Mellon University for students. Excellent for beginners.
+- **[Practical Networking (YouTube)](https://www.youtube.com/practicalnetworking)**: Deep dives into networking concepts essential for security (Subnetting, OSI model, packets).
+
+---
+
 **Remember:** The best security professionals are curious, ethical, and never stop learning. Welcome to the front lines! 💪

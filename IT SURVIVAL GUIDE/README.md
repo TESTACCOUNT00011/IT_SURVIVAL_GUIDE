@@ -41,6 +41,7 @@ Pick a career direction that interests you. Each path has its own learning roadm
 ```
 IT SURVIVAL GUIDE/
 ├── 00-BASICS/           # Start here! Computer fundamentals
+├── 00-GOODIES/          # Bonus: Study tools, legendary courses, free cert prep
 ├── 00-PREREQUISITES/    # Skills needed before specializing
 └── 01-PATHS/            # Career paths to choose from
 ```
@@ -48,5 +49,7 @@ IT SURVIVAL GUIDE/
 ---
 
 **Ready?** Open the first file in `00-BASICS` and begin your journey! 🎯
+
+Or want to explore cool stuff first? Check out [`00-GOODIES/`](00-GOODIES/README.md) for legendary courses like Harvard CS50x, Nand2Tetris, and free certification guides!
 
 Remember: Every expert was once a beginner. You've got this! 💪

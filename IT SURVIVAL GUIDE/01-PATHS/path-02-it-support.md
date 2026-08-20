@@ -345,4 +345,16 @@ For now, visit the main [Ebooks Section](../ebooks/README.md) for future updates
 
 ---
 
+## 💎 Domain Goodies: Legendary Resources for IT Support & Sysadmins
+
+These resources will take you from "I can fix your printer" to "I manage the entire infrastructure."
+
+- **[Harvard CS50x](https://cs50.harvard.edu/x/)**: Understanding the low-level logic (memory, data structures) makes troubleshooting 10x easier. You'll know *why* a system crashed, not just how to reboot it.
+- **[Professor Messer (YouTube)](https://www.youtube.com/professormesser)**: The absolute gold standard for free CompTIA A+, Network+, and Security+ training. His entire course is free on YouTube.
+- **[TryHackMe (Pre-Security Path)](https://tryhackme.com/path/outline/presecurity)**: Gamified learning for networking and security basics. Essential for modern IT support where security is everyone's job.
+- **[Cisco Networking Academy (NetAcad)](https://www.netacad.com/courses/packet-tracer)**: Download **Packet Tracer** for free. It's a network simulator where you can build massive networks without buying a single router.
+- **[Linux Journey](https://linuxjourney.com/)**: A fun, interactive way to master the Linux command line. Critical for any sysadmin path.
+
+---
+
 **Remember:** Every senior sysadmin started by resetting passwords. Embrace the journey! 💪

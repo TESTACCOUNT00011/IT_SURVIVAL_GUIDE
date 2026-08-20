@@ -546,4 +546,18 @@ For now, visit the main [Ebooks Section](../ebooks/README.md) for future updates
 
 ---
 
+## 💎 Domain Goodies: Legendary Resources for Cloud Computing
+
+Build empires in the sky with these world-class cloud resources.
+
+- **[Harvard CS50x](https://cs50.harvard.edu/x/)**: Understanding scalability, databases, and web architecture in CS50 gives you the foundation to design cloud-native applications.
+- **[Nand2Tetris](https://www.nand2tetris.org/)**: Knowing how computers work at the lowest level helps you optimize cloud instances and understand virtualization deeply.
+- **[AWS Skill Builder](https://skillbuilder.aws/)**: Official free training from Amazon. Includes the "Cloud Practitioner Essentials" course which is perfect for beginners.
+- **[Microsoft Learn (Azure)](https://learn.microsoft.com/en-us/training/azure/)**: Microsoft's official free learning platform. Gamified with badges and paths. Excellent for Azure fundamentals.
+- **[Google Cloud Skills Boost](https://www.cloudskillsboost.google/)**: Google's official platform with free courses and labs. Look for the "Cloud Digital Leader" path.
+- **[A Cloud Guru / Linux Academy (Free Trials)](https://acloudguru.com/)**: Often have free trials or free introductory courses on YouTube that are high quality.
+- **[The Cloud Resume Challenge](https://cloudresumechallenge.dev/)**: A famous challenge where you build your resume website using only cloud services (AWS/Azure/GCP). The ultimate portfolio project.
+
+---
+
 **Remember:** The cloud is just someone else's computer, but it's a really, really big someone else's computer. Master the fundamentals, practice constantly, and you'll build an amazing career! 💪

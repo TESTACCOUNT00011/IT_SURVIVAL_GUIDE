@@ -362,4 +362,17 @@ For now, visit the main [Ebooks Section](../ebooks/README.md) for future updates
 
 ---
 
+## 💎 Domain Goodies: Legendary Resources for Data Analysts
+
+Turn data into insights with these world-class free resources.
+
+- **[Harvard CS50x](https://cs50.harvard.edu/x/)**: The algorithmic thinking you learn here is crucial for efficient data processing and understanding complexity in large datasets.
+- **[Kaggle Learn](https://www.kaggle.com/learn)**: Free, bite-sized courses on Python, Pandas, Machine Learning, and SQL. Includes real datasets to practice on immediately.
+- **[Google Data Analytics Certificate (Coursera)](https://www.coursera.org/professional-certificates/google-data-analytics)**: You can audit this for **free** (select "Audit" option). A complete beginner-to-job-ready curriculum by Google.
+- **[Mode Analytics SQL Tutorial](https://mode.com/sql-tutorial/)**: One of the best interactive SQL tutorials available. Essential for pulling your own data.
+- **[StatQuest with Josh Starmer (YouTube)](https://www.youtube.com/joshstarmer)**: Complex statistics concepts explained with simple visuals and humor. Perfect for when you feel stupid reading a stats textbook.
+- **[Nand2Tetris](https://www.nand2tetris.org/)**: Understanding how computers process data at the hardware level gives you a unique edge in optimizing data pipelines.
+
+---
+
 **Remember:** Every insight starts with a question. Stay curious! 💪
