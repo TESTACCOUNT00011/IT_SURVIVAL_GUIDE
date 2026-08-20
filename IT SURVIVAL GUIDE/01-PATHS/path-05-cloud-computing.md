@@ -538,4 +538,12 @@ Cloud computing is:
 
 ---
 
+## 📚 Recommended Ebooks
+
+*This section is currently empty. Check back soon for curated ebook recommendations!*
+
+For now, visit the main [Ebooks Section](../ebooks/README.md) for future updates.
+
+---
+
 **Remember:** The cloud is just someone else's computer, but it's a really, really big someone else's computer. Master the fundamentals, practice constantly, and you'll build an amazing career! 💪

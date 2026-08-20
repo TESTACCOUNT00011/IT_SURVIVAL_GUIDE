@@ -438,4 +438,12 @@ Cybersecurity is:
 
 ---
 
+## 📚 Recommended Ebooks
+
+*This section is currently empty. Check back soon for curated ebook recommendations!*
+
+For now, visit the main [Ebooks Section](../ebooks/README.md) for future updates.
+
+---
+
 **Remember:** The best security professionals are curious, ethical, and never stop learning. Welcome to the front lines! 💪

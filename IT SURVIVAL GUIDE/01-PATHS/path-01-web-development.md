@@ -255,4 +255,12 @@ You're ready to apply for jobs when you can:
 
 ---
 
+## 📚 Recommended Ebooks
+
+*This section is currently empty. Check back soon for curated ebook recommendations!*
+
+For now, visit the main [Ebooks Section](../ebooks/README.md) for future updates.
+
+---
+
 **Remember:** Every developer started with `<!DOCTYPE html>`. You've got this! 💪
