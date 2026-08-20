@@ -440,9 +440,9 @@ Cybersecurity is:
 
 ## 📚 Recommended Ebooks
 
-*This section is currently empty. Check back soon for curated ebook recommendations!*
+Check out our curated list of free and legal ebooks specifically for Cybersecurity.
 
-For now, visit the main [Ebooks Section](../ebooks/README.md) for future updates.
+👉 **[Go to Cybersecurity Ebooks](ebooks/README.md)**
 
 ---
 

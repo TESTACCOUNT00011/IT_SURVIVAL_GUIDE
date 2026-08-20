@@ -356,9 +356,9 @@ Attend meetups, connect on LinkedIn, participate in Kaggle competitions.
 
 ## 📚 Recommended Ebooks
 
-*This section is currently empty. Check back soon for curated ebook recommendations!*
+Check out our curated list of free and legal ebooks specifically for Data Analysis.
 
-For now, visit the main [Ebooks Section](../ebooks/README.md) for future updates.
+👉 **[Go to Data Analysis Ebooks](ebooks/README.md)**
 
 ---
 

@@ -257,9 +257,9 @@ You're ready to apply for jobs when you can:
 
 ## 📚 Recommended Ebooks
 
-*This section is currently empty. Check back soon for curated ebook recommendations!*
+Check out our curated list of free and legal ebooks specifically for web development.
 
-For now, visit the main [Ebooks Section](../ebooks/README.md) for future updates.
+👉 **[Go to Web Development Ebooks](ebooks/README.md)**
 
 ---
 
