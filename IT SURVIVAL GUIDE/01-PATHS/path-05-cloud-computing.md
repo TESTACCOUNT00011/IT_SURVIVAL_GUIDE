@@ -546,6 +546,14 @@ For now, visit the main [Ebooks Section](../ebooks/README.md) for future updates
 
 ---
 
+## 🤝 Join the Community: Cloud Computing Edition
+
+Cloud moves fast. Stay current by connecting with DevOps engineers, cloud architects, and Kubernetes experts who share architectures, war stories, and certification tips.
+
+👉 **[Go to Cloud Computing Communities Guide](../communities/community-05-cloud-computing.md)**
+
+---
+
 ## 💎 Domain Goodies: Legendary Resources for Cloud Computing
 
 Build empires in the sky with these world-class cloud resources.
