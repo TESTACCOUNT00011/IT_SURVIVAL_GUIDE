@@ -41,14 +41,26 @@ Pick a career direction that interests you. Each path has its own learning roadm
 ```
 IT SURVIVAL GUIDE/
 ├── 00-BASICS/           # Start here! Computer fundamentals
-├── 00-GOODIES/          # Bonus: Study tools, legendary courses, free cert prep
+├── 00-EMERGENCY/        # 🆘 "I broke something!" - Quick fixes & disaster recovery
+├── 00-GOODIES/          # 🎒 Bonus: Study tools, legendary courses, free cert prep
+├── 00-PROFESSIONALISM/  # 💼 Resume, GitHub, email templates, soft skills
 ├── 00-PREREQUISITES/    # Skills needed before specializing
-└── 01-PATHS/            # Career paths to choose from
+├── 00-TOOLBELT/         # 🛠️ Safe software to install, browser extensions, what to avoid
+├── 00-TRACKERS/         # 🗺️ Progress checklists, 30-day challenges, learning logs
+├── 00-COMMUNITY/        # 🎧 Podcasts, YouTube channels, Discords, newsletters
+└── 01-PATHS/            # Career paths to choose from (each has domain goodies!)
 ```
 
 ---
 
 **Ready?** Open the first file in `00-BASICS` and begin your journey! 🎯
+
+**Need Help?** 
+- 🆘 Broke something? → [`00-EMERGENCY/`](00-EMERGENCY/README.md)
+- 🛠️ Need software? → [`00-TOOLBELT/`](00-TOOLBELT/README.md)
+- 📄 Building a resume? → [`00-PROFESSIONALISM/`](00-PROFESSIONALISM/README.md)
+- 🗺️ Track progress → [`00-TRACKERS/`](00-TRACKERS/README.md)
+- 🎧 Want podcasts/communities? → [`00-COMMUNITY/`](00-COMMUNITY/README.md)
 
 Or want to explore cool stuff first? Check out [`00-GOODIES/`](00-GOODIES/README.md) for legendary courses like Harvard CS50x, Nand2Tetris, and free certification guides!
 
