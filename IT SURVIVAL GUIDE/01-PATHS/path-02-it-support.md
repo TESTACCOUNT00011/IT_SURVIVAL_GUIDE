@@ -337,4 +337,12 @@ Staffing agencies can place you in short-term IT roles.
 
 ---
 
+## 📚 Recommended Ebooks
+
+*This section is currently empty. Check back soon for curated ebook recommendations!*
+
+For now, visit the main [Ebooks Section](../ebooks/README.md) for future updates.
+
+---
+
 **Remember:** Every senior sysadmin started by resetting passwords. Embrace the journey! 💪

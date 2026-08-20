@@ -354,4 +354,12 @@ Attend meetups, connect on LinkedIn, participate in Kaggle competitions.
 
 ---
 
+## 📚 Recommended Ebooks
+
+*This section is currently empty. Check back soon for curated ebook recommendations!*
+
+For now, visit the main [Ebooks Section](../ebooks/README.md) for future updates.
+
+---
+
 **Remember:** Every insight starts with a question. Stay curious! 💪
