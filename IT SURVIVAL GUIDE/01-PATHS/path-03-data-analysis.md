@@ -362,6 +362,14 @@ For now, visit the main [Ebooks Section](../ebooks/README.md) for future updates
 
 ---
 
+## 🤝 Join the Community: Data Analysis Edition
+
+Data is a team sport. Connect with analysts, data scientists, and visualization experts who share datasets, code, and career advice.
+
+👉 **[Go to Data Analysis Communities Guide](../communities/community-03-data-analysis.md)**
+
+---
+
 ## 💎 Domain Goodies: Legendary Resources for Data Analysts
 
 Turn data into insights with these world-class free resources.

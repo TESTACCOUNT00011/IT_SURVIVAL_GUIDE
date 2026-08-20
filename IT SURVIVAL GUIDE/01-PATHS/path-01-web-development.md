@@ -263,6 +263,14 @@ For now, visit the main [Ebooks Section](../ebooks/README.md) for future updates
 
 ---
 
+## 🤝 Join the Community: Web Dev Edition
+
+Don't learn alone! The web dev community is one of the largest and most welcoming in tech. Check out our dedicated guide for Discords, subreddits, and local meetups.
+
+👉 **[Go to Web Development Communities Guide](../communities/community-01-web-dev.md)**
+
+---
+
 ## 💎 Domain Goodies: Legendary Resources for Web Devs
 
 These are the "Hall of Fame" resources specifically for web development. They are challenging but will change how you see the web.

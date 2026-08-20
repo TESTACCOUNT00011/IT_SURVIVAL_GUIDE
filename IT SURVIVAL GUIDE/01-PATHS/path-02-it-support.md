@@ -345,6 +345,14 @@ For now, visit the main [Ebooks Section](../ebooks/README.md) for future updates
 
 ---
 
+## 🤝 Join the Community: IT Support Edition
+
+IT Support can feel isolating when you're the only tech person in the office. Connect with thousands of Help Desk pros and SysAdmins who've been in your shoes.
+
+👉 **[Go to IT Support Communities Guide](../communities/community-02-it-support.md)**
+
+---
+
 ## 💎 Domain Goodies: Legendary Resources for IT Support & Sysadmins
 
 These resources will take you from "I can fix your printer" to "I manage the entire infrastructure."

@@ -446,6 +446,16 @@ For now, visit the main [Ebooks Section](../ebooks/README.md) for future updates
 
 ---
 
+## 🤝 Join the Community: Cybersecurity Edition
+
+Security is all about who you know and what you've learned from others. Connect with ethical hackers, blue team defenders, and bug bounty hunters.
+
+👉 **[Go to Cybersecurity Communities Guide](../communities/community-04-cybersecurity.md)**
+
+⚠️ **Important**: Always follow ethical guidelines. Never test systems you don't own or have permission for.
+
+---
+
 ## 💎 Domain Goodies: Legendary Resources for Cybersecurity
 
 Break things (legally) and learn to protect them with these elite resources.
