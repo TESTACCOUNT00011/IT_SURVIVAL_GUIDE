@@ -540,9 +540,9 @@ Cloud computing is:
 
 ## 📚 Recommended Ebooks
 
-*This section is currently empty. Check back soon for curated ebook recommendations!*
+Check out our curated list of free and legal ebooks specifically for Cloud Computing.
 
-For now, visit the main [Ebooks Section](../ebooks/README.md) for future updates.
+👉 **[Go to Cloud Computing Ebooks](ebooks/README.md)**
 
 ---
 
