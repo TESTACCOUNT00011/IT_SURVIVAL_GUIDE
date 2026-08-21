@@ -1,0 +1,12 @@
+Deck Name: Prerequisites - Networking Basics
+Tags: networking, internet, ip, dns
+---
+Question;Answer;Tags
+What is an IP Address?;A unique number assigned to every device on a network (like a home address for computers).;networking,ip
+What is DNS?;Domain Name System. It translates human-friendly names (google.com) into IP addresses.;networking,dns
+What is a Router?;A device that directs traffic between your local network and the internet.;networking,hardware
+What is the difference between TCP and UDP?;TCP guarantees delivery (reliable), UDP sends faster but doesn't guarantee delivery (streaming).;networking,protocols
+What is a Port?;A virtual endpoint for communication. Different services use different ports (e.g., Web=80, Email=25).;networking,ports
+What is localhost (127.0.0.1)?;Your own computer. It refers to itself.;networking,ip
+What is a Packet?;A small unit of data sent over a network.;networking,data
+What is Latency?;The delay before a transfer of data begins following an instruction (ping).;networking,performance

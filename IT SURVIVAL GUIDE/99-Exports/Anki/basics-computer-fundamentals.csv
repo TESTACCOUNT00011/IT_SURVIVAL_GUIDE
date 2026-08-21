@@ -1,0 +1,12 @@
+Deck Name: IT Basics - Computer Fundamentals
+Tags: basics, computer, hardware, software
+---
+Question;Answer;Tags
+What is the CPU often called?;The "brain" of the computer.;basics,hardware
+What does RAM stand for?;Random Access Memory. It is short-term memory for active tasks.;basics,hardware
+What is the difference between HDD and SSD?;HDD uses spinning disks (slower), SSD uses flash memory (faster).;basics,hardware
+What is an Operating System (OS)?;Software that manages hardware and lets you run programs (e.g., Windows, macOS, Linux).;basics,software
+What does "booting" mean?;Starting up the computer and loading the OS.;basics,software
+What is a file extension?;The suffix at the end of a filename (e.g., .txt, .jpg) that tells the OS what type of file it is.;basics,files
+What is the Cloud?;Someone else's computer (a server) that you access over the internet to store data or run apps.;basics,internet
+What is a peripheral?;An external device connected to the computer (e.g., mouse, keyboard, printer).;basics,hardware
