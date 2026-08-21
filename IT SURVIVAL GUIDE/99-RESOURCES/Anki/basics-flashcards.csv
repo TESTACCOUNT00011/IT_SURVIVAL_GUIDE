@@ -1,0 +1,11 @@
+Frontmatter,Question,Answer,Tags
+"IT Basics","What does CPU stand for?","Central Processing Unit. It is the brain of the computer.","basics,hardware"
+"IT Basics","What is RAM?","Random Access Memory. Short-term memory for running programs.","basics,hardware"
+"IT Basics","What is the difference between HDD and SSD?","HDD uses spinning disks (slow). SSD uses flash memory (fast).","basics,hardware"
+"Security","What extension should you use to block ads?","uBlock Origin.","security,browser"
+"Security","Why should you use a password manager?","To generate unique, complex passwords for every site without memorizing them.","security,passwords"
+"Web Dev","What does HTML stand for?","HyperText Markup Language.","webdev,html"
+"Web Dev","What is CSS used for?","Styling and layout of web pages.","webdev,css"
+"Web Dev","What does JavaScript add to a website?","Interactivity and logic.","webdev,javascript"
+"Networking","What is an IP address?","A unique address that identifies a device on a network.","networking,basics"
+"Networking","What does DNS do?","Translates domain names (google.com) to IP addresses.","networking,dns"
