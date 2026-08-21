@@ -1,48 +1,77 @@
-# 01 - How to Use This Guide
+---
+tags: [basics, start-here, guide, onboarding]
+aliases: [Start Here, How to Begin, Getting Started]
+difficulty: 1
+status: active
+---
 
-## 🎯 Read This First!
+# How to Use This Guide
 
-Before you dive into technical stuff, let's talk about **how to learn**.
+## Who Is This For?
 
-### The Biggest Mistake Beginners Make
+This guide is designed for absolute beginners. You are in the right place if you:
+- Have never written code before
+- Type with one or two fingers (hunt-and-peck)
+- Do not know what terms like "CLI", "API", or "Git" mean
+- Feel overwhelmed by technical jargon
+- Are not confident in your English reading skills
 
-Trying to learn everything at once. **Don't do this.** You'll burn out and quit.
+## The Three-Phase Approach
 
-### The Right Way
+### Phase 1: Basics (Start Here)
+Learn fundamental computer skills. Do not skip this phase even if it seems easy. Strong foundations prevent future frustration.
 
-1. **Start with file `02-computer-basics.md`** - Learn what all the parts mean
-2. **Move to `03-typing.md`** - Yes, typing matters (but don't stress!)
-3. **Then `04-adblock.md`** - Make your internet usable again
-4. **Continue in order** - Each file builds on the previous one
+**Folder:** [[00-BASICS/README]]
+- Computer basics (files, folders, installing software)
+- Typing practice (yes, this matters!)
+- Browser setup (adblockers, security)
+- Search skills (Google-fu)
+- Password management
+- Basic troubleshooting
 
-### What If I Don't Understand Something?
+### Phase 2: Prerequisites
+Once comfortable with basics, learn core tech concepts that apply to all career paths.
 
-**That's normal!** Here's what to do:
+**Folder:** [[00-PREREQUISITES/00-start-here]]
+- How the internet works
+- Command line basics
+- What is programming?
+- Git and version control
+- Problem-solving mindset
 
-1. Re-read the section slowly
-2. Google the term you don't understand (example: "what is a browser simple explanation")
-3. Take a break and come back later
-4. Ask someone (or an AI assistant) to explain it like you're 5 years old
+### Phase 3: Choose Your Path
+Pick a specialized career track and follow its roadmap.
 
-### How Much Time Should I Spend?
+**Folder:** [[01-PATHS/README]]
+- Web Development
+- IT Support / Sysadmin
+- Data Analysis
+- Cybersecurity
+- Cloud Computing
 
-- **Minimum:** 15-20 minutes per day
-- **Ideal:** 30-45 minutes per day
-- **Maximum:** 1-2 hours (then take a break!)
+## Rules for Success
 
-**Consistency beats intensity.** Practicing 20 minutes daily is better than 5 hours once a week.
+1. **Do Not Skip Ahead**: Tempting as it is, skipping basics causes gaps that hurt later.
+2. **Practice Daily**: 30 minutes every day beats 8 hours once a week.
+3. **Embrace Confusion**: Being confused means you are learning. It is normal.
+4. **Use AI Helpers**: Stuck on English or a concept? See [[00-PROMPTS/README]].
+5. **Build Things**: Reading alone does not make you skilled. Apply what you learn.
+6. **Ask Questions**: Google error messages. Join communities. No question is stupid.
 
-### What Do I Need?
+## What If I Get Stuck?
 
-- A computer (any laptop or desktop works)
-- Internet connection
-- A notebook (physical or digital) to write down notes
-- Patience with yourself
+- **English is too hard?** -> Read [[00-WARNING-English-Bottleneck]]
+- **Broke something?** -> Go to [[00-EMERGENCY/README]]
+- **Need motivation?** -> Check [[00-GOODIES/README]] for fun projects
+- **Forgot what I learned?** -> Use [[99-Exports/Anki/README|Anki flashcards]]
 
-### Ready?
+## Tracking Progress
 
-Close this file and open **`02-computer-basics.md`** next!
+Use [[00-TRACKERS/README]] to log what you learn each day. Seeing progress helps motivation.
+
+> [!WARNING] Fail Forward Philosophy
+> This guide does not enforce prerequisites. You can jump to any section. However, if you skip ahead and feel lost, return to the basics. Failure is part of learning.
 
 ---
 
-💡 **Pro Tip:** Bookmark this folder so you can always find your way back!
+**Next Step:** Open [[00-BASICS/02-computer-basics|Computer Basics]] to begin.
