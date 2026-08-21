@@ -72,7 +72,7 @@ Welcome to your IT journey! This checklist guides you through your **first day**
 - [ ] Set up your [[../00-TEMPLATES/Project-Tracker|Project Tracker]]
 
 ### ☐ 8. Set Up Your Learning Environment
-- [ ] Install essential software from [[../02-BASICS/Essential-Software|Essential Software Guide]]
+- [ ] Install essential software from [[../03-TOOLKIT/Essential-Software|Essential Software Guide]]
 - [ ] At minimum:
   - [ ] Web browser (Chrome or Firefox)
   - [ ] Text editor or IDE (VS Code recommended)

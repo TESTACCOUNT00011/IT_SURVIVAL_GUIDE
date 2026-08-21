@@ -23,7 +23,7 @@ Welcome to the central hub for all external resources, tools, and references in 
 - [[../98-ANKI/decks|Download Flashcard Decks]]
 
 ### 🛠️ Essential Tools
-- [[../02-BASICS/Essential-Software|Software Installation Guide]]
+- [[../03-TOOLKIT/Essential-Software|Software Installation Guide]]
 - [[../02-BASICS/GLOSSARY/README|IT Glossary of Terms]]
 
 ### 📝 Templates
