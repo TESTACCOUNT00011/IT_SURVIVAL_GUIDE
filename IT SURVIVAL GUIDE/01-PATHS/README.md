@@ -4,7 +4,17 @@ Congratulations! You've completed the **Basics** and **Prerequisites**. Now it's
 
 ---
 
-## 🤔 How to Choose?
+## 🧭 Not Sure Which Path to Pick?
+
+**Take our interactive quiz!** We've created a fun "Vibe Check" to help you discover which career fits your personality.
+
+👉 **[Go to "How to Choose Your Path" Quiz](./how-to-choose.md)** 👈
+
+*Seriously, click that link. It takes 2 minutes and saves you weeks of wondering.*
+
+---
+
+## 🤔 Prefer to Read and Decide?
 
 Don't stress about picking the "perfect" path. Many people:
 - Start with one path and switch to another
