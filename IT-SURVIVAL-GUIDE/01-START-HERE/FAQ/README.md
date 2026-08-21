@@ -5,7 +5,7 @@ Common questions from beginners starting their IT journey.
 ## 🚀 Getting Started
 
 ### Q: I know nothing about IT. Where do I start?
-**A:** Start with [[../../02-BASICS/Computer-Basics|Computer Basics]] module, then explore the [[../00-COMPARISON/Path-Comparison|Career Path Comparison]] to choose your direction. Most complete beginners find [[../../05-PATHS/01-IT-Support/Roadmap|IT Support]] the easiest entry point.
+**A:** Start with [[../../02-BASICS/Computer-Basics|Computer Basics]] module, then explore the [[../04-PATHS/Path-Comparison|Career Path Comparison]] to choose your direction. Most complete beginners find [[../../04-PATHS/01-IT-Support/Roadmap|IT Support]] the easiest entry point.
 
 ### Q: Do I need a computer science degree?
 **A:** No! Many IT professionals are self-taught or completed certifications instead of degrees. Focus on:
@@ -244,7 +244,7 @@ No, if:
 ## 🔗 Need More Help?
 
 - [[../../99-RESOURCES/README|Resources Hub]] - Tools and communities
-- [[../../05-PATHS/00-COMPARISON/Path-Comparison|Career Comparison]] - Choose your path
+- [[../04-PATHS/Path-Comparison|Career Comparison]] - Choose your path
 - [[../../02-BASICS/GLOSSARY/README|IT Glossary]] - Understand terminology
 - Community forums - Connect with learners and professionals
 

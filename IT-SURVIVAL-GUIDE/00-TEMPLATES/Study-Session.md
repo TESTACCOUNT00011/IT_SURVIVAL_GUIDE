@@ -10,7 +10,7 @@ created: {{date}}
 - **Time Started**: 
 - **Time Ended**: 
 - **Duration**: {{X}} minutes
-- **Focus Area**: [[../../05-PATHS/01-IT-Support/Roadmap|Path/Topic]]
+- **Focus Area**: [[../../04-PATHS/01-IT-Support/Roadmap|Path/Topic]]
 - **Session Type**: ☐ Learning New Concept ☐ Practice ☐ Review ☐ Project Work
 
 ## 🎯 Session Goal

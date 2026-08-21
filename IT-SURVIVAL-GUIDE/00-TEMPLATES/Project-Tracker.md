@@ -10,7 +10,7 @@ created: {{date}}
 - **Target Completion**: {{date + 30 days}}
 - **Status**: #status/not-started #status/in-progress #status/completed
 - **Priority**: 🔴 High | 🟡 Medium | 🟢 Low
-- **Related Path**: [[../../05-PATHS/01-IT-Support/Roadmap|IT Support]] / [[../../05-PATHS/02-Web-Development/Roadmap|Web Dev]] / etc.
+- **Related Path**: [[../../04-PATHS/01-IT-Support/Roadmap|IT Support]] / [[../../04-PATHS/02-Web-Development/Roadmap|Web Dev]] / etc.
 
 ## 🎯 Goals & Objectives
 ### Primary Goal

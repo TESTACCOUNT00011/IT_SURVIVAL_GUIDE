@@ -133,7 +133,7 @@ Organize your cards with tags for easy filtering:
 In Obsidian, link Anki cards to detailed notes:
 ```
 See full explanation in [[Network-Protocols]]
-Related lab: [[../../05-PATHS/01-IT-Support/Labs/Packet-Tracer-Basics]]
+Related lab: Check the IT Support Roadmap projects
 ```
 
 ## 🔌 Useful Add-ons

@@ -124,7 +124,7 @@ created: {{date}}
 ## 🔗 Related Goals
 - Supports long-term goal: [[ ]]
 - Connected to project: [[Project-Tracker]]
-- Part of certification path: [[../../05-PATHS/01-IT-Support/Roadmap|Path Roadmap]]
+- Part of certification path: [[../../04-PATHS/01-IT-Support/Roadmap|Path Roadmap]]
 
 ---
 **Last Reviewed**: {{date}}  
