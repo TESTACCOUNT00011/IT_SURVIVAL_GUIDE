@@ -1,38 +1,21 @@
 ---
-tags: [ebooks, books, reading, resources]
-aliases: [Book List, Reading List]
+tags: [ebooks, resources, reading-list]
+aliases: [Book Recommendations, Reading List]
 difficulty: 1
-status: active
 ---
 
-# General Ebook Recommendations
+# Recommended Ebooks by Path
 
-This is a general list of highly regarded technical books. For path-specific recommendations, please visit the `ebooks` folder inside your chosen career path (e.g., `[[01-PATHS/path-01-web-development]]` -> `ebooks/`).
+Select your career path below to see curated book recommendations.
 
-## Free & Legal (Community Regarded)
+## Paths
 
-These books are often open-source or officially free and kept up-to-date by their authors.
+- [[../path-01-web-development|Web Development Ebooks]]
+- [[../path-02-it-support|IT Support Ebooks]]
+- [[../path-03-data-analysis|Data Analysis Ebooks]]
+- [[../path-04-cybersecurity|Cybersecurity Ebooks]]
+- [[../path-05-cloud-computing|Cloud Computing Ebooks]]
 
-| Title | Author | Topic | Link Strategy |
-| :--- | :--- | :--- | :--- |
-| **Think Python** | Allen Downey | Programming Basics | Search "Think Python PDF" |
-| **Automate the Boring Stuff** | Al Sweigart | Python Scripting | automatetheboringstuff.com |
-| **Eloquent JavaScript** | Marijn Haverbeke | JavaScript | eloquentjavascript.net |
-| **You Don't Know JS** | Kyle Simpson | JavaScript Deep Dive | GitHub (kylesimpson) |
-| **Operating Systems: Three Easy Pieces** | Remzi Arpaci-Dusseau | OS Concepts | pages.cs.wisc.edu |
-| **High Performance Browser Networking** | Ilya Grigorik | Web Networking | hpbn.co |
-
-## Paid Recommendations (Industry Standards)
-
-These are classic texts worth purchasing. Prices are approximate.
-
-| Title | Author | Approx Price | Topic |
-| :--- | :--- | :--- | :--- |
-| **Clean Code** | Robert C. Martin | $40 | Software Craftsmanship |
-| **Designing Data-Intensive Applications** | Martin Kleppmann | $60 | System Design |
-| **The Pragmatic Programmer** | Andrew Hunt | $35 | Career/Philosophy |
-| **Introduction to Algorithms (CLRS)** | Cormen et al. | $90 | Algorithms (Reference) |
-| **Site Reliability Engineering** | Google Team | $50 | DevOps/SRE |
-
-> [!NOTE] How to Access
-> For free books, search the title + "PDF" or visit the author's official website. For paid books, consider used copies or library loans if budget is tight.
+## Format Guide
+- **Free & Legal**: Links to official free versions or open-source books.
+- **Paid**: Industry standards worth buying. Prices are approximate.
