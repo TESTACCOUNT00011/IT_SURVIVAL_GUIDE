@@ -17,10 +17,10 @@ venv/
 node_modules/
 .mypy_cache/
 .pytest_cache/
-dist/
-build/
 target/
 .gradle/
+dist/
+build/
 
 # Logs and temp files
 *.log
