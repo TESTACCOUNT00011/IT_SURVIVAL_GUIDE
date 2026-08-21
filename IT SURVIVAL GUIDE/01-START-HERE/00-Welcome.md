@@ -36,5 +36,5 @@ There are no locked doors here. You are free to explore any section. If you try 
 
 - [[01-How-To-Use]]
 - [[02-English-Support]]
-- [[03-Computer-Basics]]
-- [[04-Choosing-Your-Path]]
+- [[../02-BASICS/01-Computer-Basics|Computer Basics]]
+- [[../04-PATHS/IT-Support/Roadmap|Choosing Your Path]]

@@ -42,11 +42,11 @@ Help people solve technical problems. Manage systems, networks, and hardware.
 
 ## Ebooks
 
-See [[IT-Support-Ebooks]] for detailed book lists.
+See [[ebooks/README|IT Support Ebooks]] for detailed book lists.
 
 ## Communities
 
-See [[IT-Support-Communities]] for forums and Discords.
+See [[communities/README|IT Support Communities]] for forums and Discords.
 
 ## Challenge
 
