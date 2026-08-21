@@ -21,12 +21,15 @@ Boost your IT learning with spaced repetition! This guide shows you how to use A
 This guide provides pre-made decks for each career path:
 
 #### Available Decks
-- [[decks/IT-Support-Basics|IT Support Fundamentals]] - Coming soon
-- [[decks/Web-Dev-Basics|Web Development Basics]] - Coming soon
-- [[decks/Cybersecurity-Basics|Cybersecurity Fundamentals]] - Coming soon
-- [[decks/Data-Analysis-Basics|Data Analysis Basics]] - Coming soon
-- [[decks/Cloud-Computing-Basics|Cloud Computing Basics]] - Coming soon
-- [[decks/General-IT-Terms|General IT Terminology]] - Available now!
+
+All decks are ready to import! Each CSV file contains 25-30 essential terms for that career path:
+
+- [[decks/IT-Support-Basics|IT Support Fundamentals]] - Hardware, networking, troubleshooting (25 cards)
+- [[decks/Web-Dev-Basics|Web Development Basics]] - HTML, CSS, JS, React, backend (30 cards)
+- [[decks/Cybersecurity-Basics|Cybersecurity Fundamentals]] - CIA triad, attacks, tools, cryptography (30 cards)
+- [[decks/Data-Analysis-Basics|Data Analysis Basics]] - Excel, SQL, Python, statistics, visualization (30 cards)
+- [[decks/Cloud-Computing-Basics|Cloud Computing Basics]] - AWS/Azure, service models, containers, serverless (30 cards)
+- [[decks/General-IT-Terms|General IT Terminology]] - Universal concepts across all paths (40+ cards)
 
 #### How to Import
 1. Download the `.apkg` file from the deck folder

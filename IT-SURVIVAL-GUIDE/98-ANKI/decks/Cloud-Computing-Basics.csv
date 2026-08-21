@@ -1,0 +1,31 @@
+Front,Back,Deck,Tags
+"What does IaaS stand for?","Infrastructure as a Service - Virtualized computing resources over internet",Cloud-Computing-Basics,service-models
+"What is PaaS?","Platform as a Service - Hardware and software tools provided over internet",Cloud-Computing-Basics,service-models
+"What is SaaS?","Software as a Service - Software delivered over internet on subscription",Cloud-Computing-Basics,service-models
+"What is public cloud?","Cloud services delivered over public internet with shared infrastructure",Cloud-Computing-Basics,deployment-models
+"What is private cloud?","Cloud infrastructure dedicated to single organization",Cloud-Computing-Basics,deployment-models
+"What is hybrid cloud?","Combination of public and private clouds working together",Cloud-Computing-Basics,deployment-models
+"What is AWS EC2?","Elastic Compute Cloud - Virtual servers in AWS cloud",Cloud-Computing-Basics,compute
+"What are AWS Lambda functions?","Serverless compute service that runs code without provisioning servers",Cloud-Computing-Basics,serverless
+"What is AWS S3?","Simple Storage Service - Scalable object storage",Cloud-Computing-Basics,storage
+"What is Azure Blob Storage?","Microsoft's object storage solution for unstructured data",Cloud-Computing-Basics,storage
+"What is a virtual machine (VM)?","Software emulation of a physical computer",Cloud-Computing-Basics,compute
+"What is containerization?","Packaging application with dependencies into standardized unit",Cloud-Computing-Basics,containers
+"What is Docker?","Platform for developing, shipping, and running containers",Cloud-Computing-Basics,containers
+"What is Kubernetes?","Container orchestration platform for automating deployment and scaling",Cloud-Computing-Basics,containers
+"What is a load balancer?","Distributes network traffic across multiple servers",Cloud-Computing-Basics,networking
+"What is Auto Scaling?","Automatically adjusting number of compute resources based on demand",Cloud-Computing-Basics,compute
+"What is a VPC?","Virtual Private Cloud - Isolated cloud resources",Cloud-Computing-Basics,networking
+"What is IAM?","Identity and Access Management - Security framework for controlling access",Cloud-Computing-Basics,security
+"What is multi-factor authentication (MFA)?","Security requiring multiple verification methods",Cloud-Computing-Basics,security
+"What is CloudFormation?","AWS service for defining infrastructure as code",Cloud-Computing-Basics,iac
+"What is Terraform?","Open-source infrastructure as code software tool",Cloud-Computing-Basics,iac
+"What is CI/CD?","Continuous Integration/Continuous Deployment - Automated software delivery",Cloud-Computing-Basics,devops
+"What is serverless computing?","Cloud execution model where provider manages infrastructure",Cloud-Computing-Basics,serverless
+"What is a CDN?","Content Delivery Network - Distributed servers delivering content based on location",Cloud-Computing-Basics,networking
+"What is AWS CloudFront?","AWS CDN service for fast global content delivery",Cloud-Computing-Basics,networking
+"What is RDS?","Relational Database Service - Managed database service",Cloud-Computing-Basics,database
+"What is DynamoDB?","AWS NoSQL database service",Cloud-Computing-Basics,database
+"What is CloudWatch?","AWS monitoring and observability service",Cloud-Computing-Basics,monitoring
+"What is pay-as-you-go pricing?","Billing model where you pay only for resources used",Cloud-Computing-Basics,economics
+"What is cloud migration?","Process of moving data and applications to cloud infrastructure",Cloud-Computing-Basics,strategy

@@ -1,0 +1,31 @@
+Front,Back,Deck,Tags
+"What is a pivot table?","Excel tool for summarizing and analyzing data",Data-Analysis-Basics,excel
+"What does VLOOKUP do?","Searches for a value in the first column and returns a value in the same row",Data-Analysis-Basics,excel
+"What is the difference between mean and median?","Mean is average; median is middle value when sorted",Data-Analysis-Basics,statistics
+"What is standard deviation?","Measure of how spread out numbers are from the mean",Data-Analysis-Basics,statistics
+"What is a correlation?","Statistical relationship between two variables",Data-Analysis-Basics,statistics
+"What does SQL stand for?","Structured Query Language - for managing databases",Data-Analysis-Basics,sql
+"What is a SELECT statement?","SQL command to retrieve data from a database",Data-Analysis-Basics,sql
+"What is a JOIN in SQL?","Combines rows from two or more tables based on related columns",Data-Analysis-Basics,sql
+"What is GROUP BY used for?","Groups rows with same values for aggregation functions",Data-Analysis-Basics,sql
+"What is Python Pandas?","Library for data manipulation and analysis",Data-Analysis-Basics,python
+"What is a DataFrame in Pandas?","Two-dimensional labeled data structure (like a spreadsheet)",Data-Analysis-Basics,python
+"What is NumPy?","Python library for numerical computing with arrays",Data-Analysis-Basics,python
+"What is a Jupyter Notebook?","Interactive environment for writing code and documentation",Data-Analysis-Basics,python
+"What is data cleaning?","Process of fixing or removing incorrect/corrupt data",Data-Analysis-Basics,process
+"What is EDA?","Exploratory Data Analysis - Investigating datasets to discover patterns",Data-Analysis-Basics,process
+"What is an outlier?","Data point that differs significantly from other observations",Data-Analysis-Basics,statistics
+"What is a histogram?","Graph showing distribution of numerical data",Data-Analysis-Basics,visualization
+"What is a scatter plot used for?","Showing relationship between two numerical variables",Data-Analysis-Basics,visualization
+"What is Tableau?","Business intelligence tool for creating interactive visualizations",Data-Analysis-Basics,bi-tools
+"What is Power BI?","Microsoft's business analytics service for visualization",Data-Analysis-Basics,bi-tools
+"What is a dashboard?","Visual display of key metrics and KPIs on single screen",Data-Analysis-Basics,visualization
+"What is a time series?","Data points collected at successive time intervals",Data-Analysis-Basics,statistics
+"What is regression analysis?","Statistical method to estimate relationships between variables",Data-Analysis-Basics,statistics
+"What is hypothesis testing?","Statistical method to test assumptions about population parameters",Data-Analysis-Basics,statistics
+"What is a null hypothesis?","Default assumption that there is no effect or relationship",Data-Analysis-Basics,statistics
+"What is a p-value?","Probability of obtaining results at least as extreme as observed",Data-Analysis-Basics,statistics
+"What is overfitting?","Model that performs well on training data but poorly on new data",Data-Analysis-Basics,machine-learning
+"What is supervised learning?","ML trained on labeled data with known outcomes",Data-Analysis-Basics,machine-learning
+"What is unsupervised learning?","ML that finds patterns in unlabeled data",Data-Analysis-Basics,machine-learning
+"What is a CSV file?","Comma-Separated Values - Plain text format for tabular data",Data-Analysis-Basics,data-formats
