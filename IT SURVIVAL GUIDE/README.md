@@ -61,6 +61,7 @@ IT SURVIVAL GUIDE/
 - 📄 Building a resume? → [`00-PROFESSIONALISM/`](00-PROFESSIONALISM/README.md)
 - 🗺️ Track progress → [`00-TRACKERS/`](00-TRACKERS/README.md)
 - 🎧 Want podcasts/communities? → [`00-COMMUNITY/`](00-COMMUNITY/README.md)
+- 🧭 Can't choose a career path? → [`01-PATHS/how-to-choose.md`](01-PATHS/how-to-choose.md)
 
 Or want to explore cool stuff first? Check out [`00-GOODIES/`](00-GOODIES/README.md) for legendary courses like Harvard CS50x, Nand2Tetris, and free certification guides!
 
