@@ -42,11 +42,11 @@ Turn raw data into insights. Help businesses make decisions based on numbers.
 
 ## Ebooks
 
-See [[Data-Analysis-Ebooks]] for detailed book lists.
+See [[ebooks/README|Data Analysis Ebooks]] for detailed book lists.
 
 ## Communities
 
-See [[Data-Analysis-Communities]] for forums and Discords.
+See [[communities/README|Data Analysis Communities]] for forums and Discords.
 
 ## Challenge
 

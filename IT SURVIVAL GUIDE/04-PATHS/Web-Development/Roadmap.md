@@ -40,11 +40,11 @@ Build websites and applications. This is the most common entry point into tech.
 
 ## Ebooks
 
-See [[Web-Development-Ebooks]] for detailed book lists.
+See [[ebooks/README|Web Development Ebooks]] for detailed book lists.
 
 ## Communities
 
-See [[Web-Development-Communities]] for forums and Discords.
+See [[communities/README|Web Development Communities]] for forums and Discords.
 
 ## Challenge
 

@@ -44,11 +44,11 @@ Build and manage infrastructure on remote servers (AWS, Azure, GCP).
 
 ## Ebooks
 
-See [[Cloud-Computing-Ebooks]] for detailed book lists.
+See [[ebooks/README|Cloud Computing Ebooks]] for detailed book lists.
 
 ## Communities
 
-See [[Cloud-Computing-Communities]] for forums and Discords.
+See [[communities/README|Cloud Computing Communities]] for forums and Discords.
 
 ## Challenge
 

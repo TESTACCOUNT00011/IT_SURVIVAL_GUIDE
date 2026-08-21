@@ -43,11 +43,11 @@ Protect systems and data from attackers. Ethical hacking and defense.
 
 ## Ebooks
 
-See [[Cybersecurity-Ebooks]] for detailed book lists.
+See [[ebooks/README|Cybersecurity Ebooks]] for detailed book lists.
 
 ## Communities
 
-See [[Cybersecurity-Communities]] for forums and Discords.
+See [[communities/README|Cybersecurity Communities]] for forums and Discords.
 
 ## Challenge
 
