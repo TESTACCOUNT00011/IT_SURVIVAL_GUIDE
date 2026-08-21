@@ -1,0 +1,16 @@
+# Format: Front,Back,Tags,Difficulty
+What is an Operating System (OS)?,"The core software that manages computer hardware and software resources (e.g., Windows, Linux, macOS).",#basics #os,1
+What does CPU stand for?,Central Processing Unit. The "brain" of the computer.,#basics #hardware,1
+What is RAM?,Random Access Memory. Temporary storage for active programs.,#basics #hardware,1
+What is a File Extension?,A suffix at the end of a filename (e.g., .txt, .jpg) indicating the file type.,#basics #files,1
+What is the Cloud?,"Remote servers accessed over the internet to store data or run applications.",#basics #cloud,1
+What is an IP Address?,A unique numerical label assigned to every device on a network.,#basics #networking,2
+What does DNS do?,"Translates human-readable domain names (google.com) into IP addresses.",#basics #networking,2
+What is a Browser?,Software used to access and view websites (e.g., Chrome, Firefox).,#basics #software,1
+What is Open Source?,Software where the source code is freely available for anyone to inspect and modify.,#basics #licensing,2
+What is a Command Line Interface (CLI)?,A text-based interface to interact with the computer using typed commands.,#basics #cli,2
+What is a Variable?,A storage container in programming that holds data which can change.,#basics #coding,2
+What is a Bug?,An error or flaw in a computer program that causes unexpected behavior.,#basics #coding,1
+What is Debugging?,The process of finding and fixing bugs in code.,#basics #coding,1
+What is an Algorithm?,A step-by-step set of instructions to solve a specific problem.,#basics #coding,2
+What is Phishing?,A cyber attack using disguised emails to trick users into revealing sensitive info.,#security #basics,2
