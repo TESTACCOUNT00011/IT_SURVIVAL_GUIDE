@@ -1,0 +1,41 @@
+#Format: Front,Back,Tags
+What does CPU stand for?,Central Processing Unit - The brain of the computer that executes instructions.,#hardware #basics
+What is RAM?,Random Access Memory - Temporary storage that holds data the CPU is actively using.,#hardware #basics
+What does SSD stand for?,Solid State Drive - A fast storage device with no moving parts.,#hardware #storage
+What is an Operating System (OS)?,System software that manages hardware and software resources (e.g., Windows, Linux, macOS).,#software #basics
+What does HTTP stand for?,HyperText Transfer Protocol - The foundation of data communication on the web.,#networking #protocols
+What port does HTTPS use?,Port 443 - The secure version of HTTP using SSL/TLS encryption.,#networking #security #ports
+What does DNS stand for?,Domain Name System - Translates domain names to IP addresses.,#networking #basics
+What is an IP Address?,A unique numerical label assigned to each device on a network (e.g., 192.168.1.1).,#networking #basics
+What does URL stand for?,Uniform Resource Locator - The address of a resource on the internet.,#networking #web
+What is a Browser?,Software application used to access and view websites (e.g., Chrome, Firefox).,#software #web
+What is Cloud Computing?,Delivering computing services (servers, storage, databases) over the internet.,#cloud #basics
+What does API stand for?,Application Programming Interface - Allows different software applications to communicate.,#programming #basics
+What is Open Source?,Software with source code that anyone can inspect, modify, and enhance.,#software #licensing
+What is Virtualization?,Creating virtual versions of hardware, operating systems, or networks.,#cloud #infrastructure
+What is a Firewall?,A security system that monitors and controls incoming and outgoing network traffic.,#security #networking
+What is Malware?,Malicious software designed to harm or exploit computers (viruses, ransomware, etc.).,#security #threats
+What is Phishing?,A cyberattack method using fraudulent emails to steal sensitive information.,#security #threats
+What does SQL stand for?,Structured Query Language - Used to manage relational databases.,#database #languages
+What is Git?,A version control system for tracking changes in source code.,#programming #tools
+What is Linux?,An open-source operating system based on Unix.,#os #opensource
+What command lists files in Linux?,ls - Lists directory contents.,#linux #commands
+What command changes directory in Linux?,cd - Change Directory.,#linux #commands
+What command shows current directory in Linux?,pwd - Print Working Directory.,#linux #commands
+What is the Kernel?,The core part of an operating system that manages system resources.,#os #basics
+What is Bandwidth?,The maximum rate of data transfer across a network.,#networking #performance
+What is Latency?,The delay before a transfer of data begins following an instruction.,#networking #performance
+What is a Server?,A computer or system that provides resources or services to other programs.,#infrastructure #basics
+What is a Client?,A computer or program that requests services from a server.,#infrastructure #basics
+What does GUI stand for?,Graphical User Interface - Visual way to interact with devices using icons and menus.,#software #ui
+What is Command Line Interface (CLI)?,A text-based interface for interacting with operating systems.,#software #cli
+What is Encryption?,Converting data into code to prevent unauthorized access.,#security #basics
+What is Two-Factor Authentication (2FA)?,A security process requiring two forms of identification to access an account.,#security #authentication
+What is a Backup?,A copy of data stored separately for recovery in case of loss.,#data #protection
+What is SaaS?,Software as a Service - Cloud-based software accessed via browser.,#cloud #servicemodels
+What is IaaS?,Infrastructure as a Service - Cloud-based virtualized computing resources.,#cloud #servicemodels
+What is PaaS?,Platform as a Service - Cloud-based platform for developing applications.,#cloud #servicemodels
+What is a Bug?,An error or flaw in software that causes unexpected behavior.,#programming #basics
+What is Debugging?,The process of finding and fixing bugs in code.,#programming #processes
+What is an Algorithm?,A step-by-step procedure for solving a problem or accomplishing a task.,#programming #basics
+What is Binary?,A base-2 number system using only 0s and 1s - the language of computers.,#hardware #basics
