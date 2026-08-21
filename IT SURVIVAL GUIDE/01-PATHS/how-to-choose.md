@@ -1,56 +1,51 @@
 ---
-tags: [quiz, choice, career, assessment]
-aliases: [Choose Path, Career Quiz]
+tags: [quiz, career, choice, assessment]
+aliases: [Vibe Check, Career Quiz]
 difficulty: 1
-status: active
 ---
 
 # How to Choose Your Path
 
-Choosing a specialization can be overwhelming. This guide helps you decide based on your natural interests and personality.
+Not sure which career fits you? Answer these 5 questions honestly. There are no wrong answers.
 
-## The Vibe Check (Mini Quiz)
+## The Vibe Check Quiz
 
-Answer these questions honestly. Tally which letter you choose most.
+### Question 1: When something breaks, what is your first thought?
+A. "What error message did it show? I will Google it." (Points: IT Support, Web Dev)
+B. "Who broke it? Was it a hacker?" (Points: Cybersecurity)
+C. "How can I automate fixing this next time?" (Points: Cloud, DevOps)
+D. "What data led to this failure?" (Points: Data Analysis)
 
-**1. When something breaks, what is your first reaction?**
-- A) I want to build a new one from scratch that doesn't break.
-- B) I want to diagnose exactly why it broke and fix it.
-- C) I want to look at the data logs to see what happened before the crash.
-- D) I want to know if someone hacked it.
-- E) I want to move the whole system to a more stable environment.
+### Question 2: What kind of projects sound fun?
+A. Building a personal website or portfolio. (Points: Web Dev)
+B. Setting up a smart home network or fixing friends computers. (Points: IT Support)
+C. Analyzing sports stats or stock market trends. (Points: Data Analysis)
+D. Trying to hack into my own WiFi to test security. (Points: Cybersecurity)
+E. Hosting a game server for friends. (Points: Cloud)
 
-**2. What kind of project sounds most fun?**
-- A) Making a website that looks amazing and works on phones.
-- B) Setting up a network for a small office or fixing a slow computer.
-- C) Making charts that show why sales dropped last month.
-- D) Trying to hack into a website (ethically) to find holes.
-- E) Automating the setup of 100 servers with code.
+### Question 3: How do you feel about math?
+A. I just need basic arithmetic. (Points: Web Dev, IT Support)
+B. I like statistics and finding patterns. (Points: Data Analysis)
+C. I like logic puzzles but not heavy calculus. (Points: Cybersecurity, Cloud)
 
-**3. How do you handle repetition?**
-- A) I hate it. I want to create new things constantly.
-- B) I don't mind it if it solves a user's problem.
-- C) I can handle it if I'm finding patterns in the noise.
-- D) I get hyper-focused on details others miss.
-- E) I try to write a script to do it for me.
+### Question 4: Do you prefer working with people or machines?
+A. People. I like helping users directly. (Points: IT Support)
+B. Machines. I prefer code and servers. (Points: Cloud, Backend Dev)
+C. Both. I want to build things people use. (Points: Web Dev)
+D. I want to outsmart bad people using machines. (Points: Cybersecurity)
 
-### Results
+### Question 5: What is your ideal work environment?
+A. Fast-paced, seeing results immediately. (Points: Web Dev)
+B. Structured, solving tickets one by one. (Points: IT Support)
+C. Investigative, deep diving into incidents. (Points: Cybersecurity, Data)
+D. Strategic, planning large systems. (Points: Cloud)
 
-- **Mostly A**: [[01-PATHS/path-01-web-development|Web Development]] (The Creator)
-- **Mostly B**: [[01-PATHS/path-02-it-support|IT Support]] (The Fixer)
-- **Mostly C**: [[01-PATHS/path-03-data-analysis|Data Analysis]] (The Detective)
-- **Mostly D**: [[01-PATHS/path-04-cybersecurity|Cybersecurity]] (The Guardian)
-- **Mostly E**: [[01-PATHS/path-05-cloud-computing|Cloud Computing]] (The Architect)
+## Results
 
-## The Taste Test Challenge
+- **Mostly A**: [[path-01-web-development|Web Development]]
+- **Mostly B**: [[path-02-it-support|IT Support]]
+- **Mostly C**: [[path-03-data-analysis|Data Analysis]] or [[path-04-cybersecurity|Cybersecurity]]
+- **Mostly D/E**: [[path-05-cloud-computing|Cloud Computing]]
 
-Do not commit yet. Spend 2 hours on each of the following free tutorials to see what sticks:
-
-1.  **Web Dev**: Complete the first 3 lessons of "The Odin Project" (Foundations).
-2.  **IT Support**: Watch "Professor Messer's Network+" first video and try to follow along.
-3.  **Data**: Try the "Kaggle Python" micro-course (first hour).
-4.  **Security**: Play the first 2 levels of "OverTheWire Bandit".
-5.  **Cloud**: Do the "AWS Cloud Practitioner Essentials" digital training (first module).
-
-> [!NOTE] It Is Not Permanent
-> Your first job does not define your entire career. Many people switch paths after 1-2 years. The skills often overlap. Just pick one and start.
+> [!TIP] Still Unsure?
+> Try the "Day 1 Challenge" in each of the top 2 paths that matched your answers. The one you enjoy more is the right choice.
