@@ -48,8 +48,55 @@ See [[ebooks/README|IT Support Ebooks]] for detailed book lists.
 
 See [[communities/README|IT Support Communities]] for forums and Discords.
 
+## Practice Projects
+
+Build these projects to solidify your skills and create a portfolio:
+
+### Project 1: Home Lab Setup (Weeks 1-2)
+**Goal**: Create a virtualized environment to practice safely.
+- Install VirtualBox or VMware Player (free)
+- Create 3 VMs: Windows 10, Ubuntu Server, Kali Linux
+- Configure network settings (NAT, Bridged, Host-only)
+- Take screenshots of your setup for your portfolio
+
+### Project 2: Active Directory Domain (Weeks 3-4)
+**Goal**: Simulate a corporate IT environment.
+- Set up Windows Server VM as Domain Controller
+- Create organizational units (Sales, IT, HR)
+- Add 10+ fake user accounts with different permissions
+- Configure Group Policies (password requirements, desktop restrictions)
+- Document your process using the [[../../00-TEMPLATES/Project-Tracker|Project Tracker Template]]
+
+### Project 3: Help Desk Ticketing System (Weeks 5-6)
+**Goal**: Learn professional issue tracking.
+- Install osTicket or Spiceworks (free versions)
+- Create sample tickets for common issues (password reset, printer problems, software install)
+- Practice documenting resolutions clearly
+- Set up automated email notifications
+
+### Project 4: Network Troubleshooting Lab (Weeks 7-8)
+**Goal**: Master diagnostic tools.
+- Use Cisco Packet Tracer to build a small office network
+- Intentionally break things (wrong IP, DNS failure, cable disconnect)
+- Practice using: ping, tracert, nslookup, ipconfig, netstat
+- Create a troubleshooting checklist template
+
+### Project 5: Automation Script (Weeks 9-10)
+**Goal**: Save time with scripting.
+- Write a PowerShell script to:
+  - Create multiple user accounts from a CSV file
+  - Check disk space on multiple machines
+  - Automate software installation
+- OR write a Bash script to:
+  - Backup important directories
+  - Monitor system resources
+  - Update all packages automatically
+
 ## Challenge
+
+Complete these quick tasks to test your knowledge:
 
 - [ ] Install a Linux virtual machine.
 - [ ] Create two user accounts with different permissions.
 - [ ] Ping google.com and trace the route.
+- [ ] Document one troubleshooting session using the [[../../00-TEMPLATES/Troubleshooting-Log|Troubleshooting Log Template]].

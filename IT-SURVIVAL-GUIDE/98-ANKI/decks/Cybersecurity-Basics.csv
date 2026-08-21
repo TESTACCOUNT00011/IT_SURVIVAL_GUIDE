@@ -1,0 +1,31 @@
+Front,Back,Deck,Tags
+"What is the CIA Triad?","Confidentiality, Integrity, Availability - Core security principles",Cybersecurity-Basics,fundamentals
+"What is Confidentiality?","Ensuring only authorized users can access data",Cybersecurity-Basics,fundamentals
+"What is Integrity in security?","Ensuring data hasn't been tampered with or altered",Cybersecurity-Basics,fundamentals
+"What is Availability?","Ensuring systems and data are accessible when needed",Cybersecurity-Basics,fundamentals
+"What is a vulnerability?","Weakness that can be exploited by a threat",Cybersecurity-Basics,fundamentals
+"What is an exploit?","Code or technique that takes advantage of a vulnerability",Cybersecurity-Basics,attacks
+"What is malware?","Malicious software designed to harm systems",Cybersecurity-Basics,malware
+"What is a virus?","Malware that attaches to legitimate programs and replicates",Cybersecurity-Basics,malware
+"What is a worm?","Self-replicating malware that spreads through networks",Cybersecurity-Basics,malware
+"What is a trojan?","Malware disguised as legitimate software",Cybersecurity-Basics,malware
+"What is ransomware?","Malware that encrypts files and demands payment",Cybersecurity-Basics,malware
+"What is spyware?","Malware that secretly collects user information",Cybersecurity-Basics,malware
+"What is phishing?","Social engineering attack via fraudulent emails",Cybersecurity-Basics,social-engineering
+"What is spear phishing?","Targeted phishing attack against specific individuals",Cybersecurity-Basics,social-engineering
+"What is two-factor authentication (2FA)?","Security requiring two forms of verification",Cybersecurity-Basics,authentication
+"What is a firewall?","Network security device that controls traffic flow",Cybersecurity-Basics,network-security
+"What is encryption?","Process of converting data to unreadable format without key",Cybersecurity-Basics,cryptography
+"What is hashing?","One-way function that converts data to fixed-length string",Cybersecurity-Basics,cryptography
+"What is symmetric encryption?","Encryption using same key for encryption and decryption",Cybersecurity-Basics,cryptography
+"What is asymmetric encryption?","Encryption using public/private key pair",Cybersecurity-Basics,cryptography
+"What does SSL/TLS stand for?","Secure Sockets Layer / Transport Layer Security - Protocols for secure communication",Cybersecurity-Basics,cryptography
+"What is a DDoS attack?","Distributed Denial of Service - Overwhelming target with traffic",Cybersecurity-Basics,attacks
+"What is SQL Injection?","Attack inserting malicious SQL code into queries",Cybersecurity-Basics,web-attacks
+"What is XSS?","Cross-Site Scripting - Injecting malicious scripts into web pages",Cybersecurity-Basics,web-attacks
+"What is a Man-in-the-Middle attack?","Attacker intercepts communication between two parties",Cybersecurity-Basics,attacks
+"What is Nmap used for?","Network scanning and reconnaissance",Cybersecurity-Basics,tools
+"What is Metasploit?","Penetration testing framework for exploiting vulnerabilities",Cybersecurity-Basics,tools
+"What is Wireshark?","Network protocol analyzer for packet inspection",Cybersecurity-Basics,tools
+"What is Burp Suite?","Web application security testing tool",Cybersecurity-Basics,tools
+"What is Kali Linux?","Linux distribution designed for penetration testing",Cybersecurity-Basics,tools
