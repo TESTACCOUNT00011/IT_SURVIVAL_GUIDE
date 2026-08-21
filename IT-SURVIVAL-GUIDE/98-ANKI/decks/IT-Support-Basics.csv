@@ -1,0 +1,26 @@
+Front,Back,Deck,Tags
+"What does CPU stand for?","Central Processing Unit - The brain of the computer that executes instructions",IT-Support-Basics,hardware
+"What is RAM?","Random Access Memory - Temporary storage that holds data while the computer is running",IT-Support-Basics,hardware
+"What is an SSD?","Solid State Drive - Fast storage device with no moving parts",IT-Support-Basics,storage
+"What does BIOS stand for?","Basic Input/Output System - Firmware that initializes hardware during boot",IT-Support-Basics,firmware
+"What is a peripheral device?","Hardware device connected to a computer (keyboard, mouse, printer, monitor)",IT-Support-Basics,hardware
+"What is the function of a power supply unit (PSU)?","Converts AC power from wall outlet to DC power for computer components",IT-Support-Basics,hardware
+"What is thermal paste used for?","Improves heat transfer between CPU and heatsink",IT-Support-Basics,hardware
+"What does POST stand for?","Power-On Self-Test - Diagnostic test run by BIOS at startup",IT-Support-Basics,troubleshooting
+"What is Safe Mode?","Windows diagnostic mode that loads only essential drivers",IT-Support-Basics,troubleshooting
+"What is a device driver?","Software that allows OS to communicate with hardware",IT-Support-Basics,software
+"What is the Windows Registry?","Database storing Windows configuration settings",IT-Support-Basics,windows
+"What is Blue Screen of Death (BSOD)?","Critical Windows error that forces system shutdown",IT-Support-Basics,windows
+"What is Disk Defragmentation?","Process of reorganizing data on HDD for faster access",IT-Support-Basics,maintenance
+"What is System Restore?","Windows feature that reverts system to previous state",IT-Support-Basics,windows
+"What are Windows Updates?","Patches and improvements released by Microsoft",IT-Support-Basics,windows
+"What is Task Manager used for?","Monitor system performance and manage running processes",IT-Support-Basics,windows
+"What is a command prompt?","Text-based interface for executing commands in Windows",IT-Support-Basics,cli
+"What does IP address stand for?","Internet Protocol Address - Unique identifier for devices on a network",IT-Support-Basics,networking
+"What is DNS?","Domain Name System - Translates domain names to IP addresses",IT-Support-Basics,networking
+"What is DHCP?","Dynamic Host Configuration Protocol - Automatically assigns IP addresses",IT-Support-Basics,networking
+"What is a subnet mask?","Defines network and host portions of an IP address",IT-Support-Basics,networking
+"What is a default gateway?","Router address that devices use to communicate outside their network",IT-Support-Basics,networking
+"What does ping do?","Tests connectivity between two network devices",IT-Support-Basics,networking
+"What is tracert/traceroute?","Shows path packets take to reach destination",IT-Support-Basics,networking
+"What is a MAC address?","Media Access Control - Unique hardware identifier for network interfaces",IT-Support-Basics,networking

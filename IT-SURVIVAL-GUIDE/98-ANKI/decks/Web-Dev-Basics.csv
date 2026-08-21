@@ -1,0 +1,31 @@
+Front,Back,Deck,Tags
+"What does HTML stand for?","HyperText Markup Language - Standard language for creating web pages",Web-Dev-Basics,frontend
+"What does CSS stand for?","Cascading Style Sheets - Language for styling web pages",Web-Dev-Basics,frontend
+"What does JavaScript do?","Adds interactivity and dynamic behavior to web pages",Web-Dev-Basics,frontend
+"What is the DOM?","Document Object Model - Tree structure representing HTML document",Web-Dev-Basics,frontend
+"What is a responsive design?","Web design that adapts to different screen sizes",Web-Dev-Basics,frontend
+"What is Flexbox?","CSS layout model for one-dimensional arrangements",Web-Dev-Basics,css
+"What is CSS Grid?","CSS layout system for two-dimensional layouts",Web-Dev-Basics,css
+"What is a media query?","CSS technique for applying styles based on device characteristics",Web-Dev-Basics,responsive
+"What does Git do?","Version control system for tracking code changes",Web-Dev-Basics,tools
+"What is GitHub?","Platform for hosting and collaborating on Git repositories",Web-Dev-Basics,tools
+"What is npm?","Node Package Manager - Tool for managing JavaScript packages",Web-Dev-Basics,tools
+"What is React?","JavaScript library for building user interfaces with components",Web-Dev-Basics,frameworks
+"What is a component in React?","Reusable piece of UI that manages its own state",Web-Dev-Basics,react
+"What are props in React?","Data passed from parent to child components",Web-Dev-Basics,react
+"What is state in React?","Internal data that can change and trigger re-renders",Web-Dev-Basics,react
+"What is JSX?","JavaScript XML - Syntax extension for writing React elements",Web-Dev-Basics,react
+"What is an API?","Application Programming Interface - Allows software to communicate",Web-Dev-Basics,backend
+"What is REST?","Representational State Transfer - Architectural style for APIs",Web-Dev-Basics,backend
+"What is JSON?","JavaScript Object Notation - Lightweight data interchange format",Web-Dev-Basics,data
+"What is AJAX?","Asynchronous JavaScript and XML - Technique for async web requests",Web-Dev-Basics,frontend
+"What is Node.js?","JavaScript runtime for server-side programming",Web-Dev-Basics,backend
+"What is Express.js?","Minimalist web framework for Node.js",Web-Dev-Basics,backend
+"What is MongoDB?","NoSQL database that stores data in JSON-like documents",Web-Dev-Basics,database
+"What is SQL?","Structured Query Language - Language for relational databases",Web-Dev-Basics,database
+"What is authentication?","Process of verifying user identity",Web-Dev-Basics,security
+"What is JWT?","JSON Web Token - Secure way to transmit information between parties",Web-Dev-Basics,security
+"What is CORS?","Cross-Origin Resource Sharing - Security feature controlling resource access",Web-Dev-Basics,security
+"What is webpack?","Module bundler that packages JavaScript files for browsers",Web-Dev-Basics,tools
+"What is TypeScript?","Typed superset of JavaScript that compiles to plain JS",Web-Dev-Basics,languages
+"What is a Progressive Web App (PWA)?","Web application with native app-like features",Web-Dev-Basics,modern
