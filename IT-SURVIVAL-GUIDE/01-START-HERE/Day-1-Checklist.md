@@ -2,6 +2,9 @@
 
 Welcome to your IT journey! This checklist guides you through your **first day** step-by-step. Don't worry about being perfect—just get started!
 
+> [!IMPORTANT] Template Warning
+> **Only use the Daily-Log template for now.** Ignore all other templates until you've completed at least 30 days of learning. Using too many tools upfront will slow you down, not speed you up.
+
 ---
 
 ## 🌅 Morning: Setup & Mindset (30-60 minutes)

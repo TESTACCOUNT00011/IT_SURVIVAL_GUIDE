@@ -7,6 +7,14 @@ difficulty: 2
 
 Build websites and applications. This is the most common entry point into tech.
 
+> [!WARNING] Link Rot Warning
+> **Links break over time.** If any resource link below doesn't work:
+> 1. Copy the resource name (e.g., "freeCodeCamp", "MDN Web Docs").
+> 2. Search for it on Google/YouTube.
+> 3. Find the official website or most recent tutorial.
+>
+> **Time Commitment**: Ballpark estimate only—expect 10-15 hours/week (varies wildly by person).
+
 ## What You Will Do
 
 - Create visual interfaces users interact with.

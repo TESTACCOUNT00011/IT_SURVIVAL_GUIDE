@@ -1,5 +1,15 @@
 # 📝 Template Library
 
+> [!WARNING] STOP! Read This First
+> **Do NOT try to use all these templates at once.** This is a common beginner trap called "productivity porn"—spending more time organizing than learning.
+> 
+> **Your First 30 Days:**
+> - Use ONLY the [[Daily-Log|Daily Log Template]].
+> - Ignore everything else.
+> - After 30 days, you'll naturally discover which other templates you need.
+> 
+> Trust the process. Start simple.
+
 A collection of ready-to-use templates for your IT learning journey. Copy these templates into your daily notes or project folders.
 
 ## 🗓️ Daily & Routine Templates
