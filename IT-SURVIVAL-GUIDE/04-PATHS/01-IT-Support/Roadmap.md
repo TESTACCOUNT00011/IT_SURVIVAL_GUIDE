@@ -7,6 +7,14 @@ difficulty: 2
 
 Help people solve technical problems. Manage systems, networks, and hardware.
 
+> [!WARNING] Link Rot Warning
+> **Links break over time.** If any resource link below doesn't work:
+> 1. Copy the resource name (e.g., "Professor Messer", "Cisco Packet Tracer").
+> 2. Search for it on Google/YouTube.
+> 3. Find the official website or most recent tutorial.
+>
+> **Time Commitment**: Ballpark estimate only—expect 10-15 hours/week (varies wildly by person).
+
 ## What You Will Do
 
 - Troubleshoot hardware and software issues.

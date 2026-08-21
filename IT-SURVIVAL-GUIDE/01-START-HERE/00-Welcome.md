@@ -8,6 +8,15 @@ difficulty: 1
 
 This guide is designed for absolute beginners. It assumes you know nothing about computers, coding, or technology.
 
+> [!WARNING] Link Rot Warning
+> **Links break over time.** The tech industry moves fast, and URLs change. If a link in this guide doesn't work:
+> 1. Don't panic.
+> 2. Copy the resource name (e.g., "freeCodeCamp", "Roadmap.sh").
+> 3. Search for it on Google/YouTube.
+> 4. Look for the official website or most recent tutorial.
+> 
+> The *concepts* in this guide remain valid even if specific links expire.
+
 ## Critical Warning: The English Bottleneck
 
 > [!WARNING] Important Language Notice

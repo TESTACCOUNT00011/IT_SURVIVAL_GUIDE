@@ -2,6 +2,14 @@
 
 Welcome to the central hub for all external resources, tools, and references in the IT Survival Guide.
 
+> [!WARNING] Link Rot Warning
+> **Links break over time.** If any link below doesn't work:
+> 1. Copy the resource name (e.g., "freeCodeCamp", "Professor Messer").
+> 2. Search for it on Google/YouTube.
+> 3. Find the official website or most recent tutorial.
+> 
+> The *concepts* remain valid even if specific URLs expire.
+
 ## 🗂️ Resource Categories
 
 ### 📖 Ebooks & Guides
@@ -23,7 +31,7 @@ Welcome to the central hub for all external resources, tools, and references in 
 - [[../98-ANKI/decks|Download Flashcard Decks]]
 
 ### 🛠️ Essential Tools
-- [[../02-BASICS/Essential-Software|Software Installation Guide]]
+- [[../03-TOOLKIT/Essential-Software|Software Installation Guide]]
 - [[../02-BASICS/GLOSSARY/README|IT Glossary of Terms]]
 
 ### 📝 Templates

@@ -148,7 +148,7 @@ Not sure? Start with **Python**—it's beginner-friendly and versatile.
 *Pro tip: Learn basic Linux regardless—it's everywhere in IT!*
 
 ### Q: How do I set up my development environment?
-**A:** Follow the [[../../02-BASICS/Essential-Software|Essential Software Guide]] for step-by-step installation instructions for your chosen path.
+**A:** Follow the [[../../03-TOOLKIT/Essential-Software|Essential Software Guide]] for step-by-step installation instructions for your chosen path.
 
 ---
 
