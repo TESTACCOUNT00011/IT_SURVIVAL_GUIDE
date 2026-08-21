@@ -1,68 +1,56 @@
-# 🖥️ IT SURVIVAL GUIDE
+---
+tags: [dashboard, index, start-here]
+aliases: [Home, Start Here, Main Dashboard]
+difficulty: 1
+status: active
+---
 
-Welcome! If you're reading this, you probably feel lost in the tech world. **That's okay.** Everyone starts at zero. This guide is designed for absolute beginners—people who:
+# IT Survival Guide
 
-- Don't know what "coding" means
-- Type with two fingers (hunt-and-peck style)
-- Get overwhelmed by technical jargon
-- Don't know where to start
+Welcome to the IT Survival Guide. This is a comprehensive knowledge base designed for absolute beginners with zero technical background. It assumes you may struggle with typing, English, or basic computer concepts.
 
-## 📚 How This Guide Works
+## How to Use This Guide
 
-This guide is structured in **three phases**:
+1. **Start at the beginning**: Go to [[00-BASICS/01-how-to-use-this-guide]] if you are completely new.
+2. **Follow the flow**: Basics -> Prerequisites -> Choose a Path.
+3. **Use the tools**: Check [[00-PROMPTS/README]] if you need help understanding complex English or concepts.
+4. **Track progress**: Use [[00-TRACKERS/README]] to log your learning.
 
-### Phase 1: START HERE (You Are Here)
-Basic survival skills every computer user needs. No prior knowledge required.
+> [!WARNING] Important Note on English
+> The majority of IT and Computer Science resources are in English. If you struggle with English, it will become your bottleneck. 
+> Please read [[00-WARNING-English-Bottleneck]] immediately for strategies to overcome this.
 
-### Phase 2: PREREQUISITES → NEXT LEVEL
-Once you're comfortable with basics, these skills prepare you for specialized paths.
+## Sections
 
-### Phase 3: CHOOSE YOUR PATH
-Pick a career direction that interests you. Each path has its own learning roadmap.
+### Phase 1: Foundations (Everyone Starts Here)
+- [[00-BASICS/01-how-to-use-this-guide|How to Use This Guide]]
+- [[00-BASICS/02-computer-basics|Computer Basics]]
+- [[00-BASICS/03-typing|Typing Mastery]]
+- [[00-BASICS/04-adblock|AdBlock Setup]]
+- [[00-BASICS/05-google-fu|Search Skills]]
+- [[00-BASICS/06-passwords-security|Security & Passwords]]
+- [[00-BASICS/07-basic-troubleshooting|Basic Troubleshooting]]
+
+### Phase 2: Exploration & Tools
+- [[00-GOODIES/README|Free Courses & Cert Guides]]
+- [[00-TOOLBELT/README|Essential Software]]
+- [[00-PROMPTS/README|AI Prompts for Learning]]
+- [[00-EMERGENCY/README|Emergency Recovery]]
+
+### Phase 3: Choose Your Career Path
+- [[01-PATHS/how-to-choose|How to Choose a Path]]
+- [[01-PATHS/path-01-web-development|Web Development]]
+- [[01-PATHS/path-02-it-support|IT Support]]
+- [[01-PATHS/path-03-data-analysis|Data Analysis]]
+- [[01-PATHS/path-04-cybersecurity|Cybersecurity]]
+- [[01-PATHS/path-05-cloud-computing|Cloud Computing]]
+
+### Resources
+- [[01-PATHS/communities/README|Community Hubs]]
+- [[99-Exports/Anki/README|Anki Flashcards]]
 
 ---
 
-## 🚀 Getting Started
+*Thank you for reading this guide. Your dedication to learning and growing in tech is truly inspiring. I wish you all the best in your programming journey ahead. Keep pushing forward - you've got this!*
 
-**First Step:** Read the files in order in the `00-BASICS` folder. Don't skip anything—even if it seems obvious. Building strong foundations matters more than rushing ahead.
-
-**Important Mindset Tips:**
-- ❌ **Don't** compare yourself to others
-- ✅ **Do** take breaks when frustrated
-- ❌ **Don't** expect to learn everything in a week
-- ✅ **Do** practice a little bit every day
-- ❌ **Don't** be afraid to make mistakes (they're how you learn!)
-- ✅ **Do** ask questions (Google is your friend!)
-
----
-
-## 📁 Folder Structure
-
-```
-IT SURVIVAL GUIDE/
-├── 00-BASICS/           # Start here! Computer fundamentals
-├── 00-EMERGENCY/        # 🆘 "I broke something!" - Quick fixes & disaster recovery
-├── 00-GOODIES/          # 🎒 Bonus: Study tools, legendary courses, free cert prep
-├── 00-PROFESSIONALISM/  # 💼 Resume, GitHub, email templates, soft skills
-├── 00-PREREQUISITES/    # Skills needed before specializing
-├── 00-TOOLBELT/         # 🛠️ Safe software to install, browser extensions, what to avoid
-├── 00-TRACKERS/         # 🗺️ Progress checklists, 30-day challenges, learning logs
-├── 00-COMMUNITY/        # 🎧 Podcasts, YouTube channels, Discords, newsletters
-└── 01-PATHS/            # Career paths to choose from (each has domain goodies!)
-```
-
----
-
-**Ready?** Open the first file in `00-BASICS` and begin your journey! 🎯
-
-**Need Help?** 
-- 🆘 Broke something? → [`00-EMERGENCY/`](00-EMERGENCY/README.md)
-- 🛠️ Need software? → [`00-TOOLBELT/`](00-TOOLBELT/README.md)
-- 📄 Building a resume? → [`00-PROFESSIONALISM/`](00-PROFESSIONALISM/README.md)
-- 🗺️ Track progress → [`00-TRACKERS/`](00-TRACKERS/README.md)
-- 🎧 Want podcasts/communities? → [`00-COMMUNITY/`](00-COMMUNITY/README.md)
-- 🧭 Can't choose a career path? → [`01-PATHS/how-to-choose.md`](01-PATHS/how-to-choose.md)
-
-Or want to explore cool stuff first? Check out [`00-GOODIES/`](00-GOODIES/README.md) for legendary courses like Harvard CS50x, Nand2Tetris, and free certification guides!
-
-Remember: Every expert was once a beginner. You've got this! 💪
+**Author**: A fellow tech enthusiast who believes everyone deserves a chance to learn.
