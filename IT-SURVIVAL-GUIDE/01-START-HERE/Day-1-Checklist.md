@@ -35,7 +35,7 @@ Welcome to your IT journey! This checklist guides you through your **first day**
 - [ ] Bookmark this page for future reference
 
 ### ☐ 5. Understand Your Options
-- [ ] Open [[../05-PATHS/00-COMPARISON/Path-Comparison|Career Path Comparison]]
+- [ ] Open [[../04-PATHS/Path-Comparison|Career Path Comparison]]
 - [ ] Read about all 5 career paths
 - [ ] Don't decide yet—just explore!
 - [ ] Jot down initial thoughts in your Daily Log:
@@ -60,7 +60,7 @@ Welcome to your IT journey! This checklist guides you through your **first day**
 - [ ] Take notes using [[../00-TEMPLATES/Learning-Summary|Learning Summary Template]]
 
 **Option B: Some Tech Experience**
-- [ ] Review [[../05-PATHS/00-COMPARISON/Path-Comparison|Career Paths]] again
+- [ ] Review [[../04-PATHS/Path-Comparison|Career Paths]] again
 - [ ] Pick one path to explore first
 - [ ] Open that path's Roadmap
 - [ ] Read the "Month 1" section

@@ -8,7 +8,7 @@ created: {{date}}
 ## 📖 Topic Overview
 - **Date Studied**: {{date}}
 - **Time Spent**: {{X}} hours
-- **Source Material**: [[../../05-PATHS/01-IT-Support/Roadmap|Course/Book/Video Name]]
+- **Source Material**: [[../../04-PATHS/01-IT-Support/Roadmap|Course/Book/Video Name]]
 - **Difficulty**: ⭐ Easy | ⭐⭐ Medium | ⭐⭐⭐ Hard
 
 ## 🎯 What I Learned
